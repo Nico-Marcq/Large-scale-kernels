@@ -1,7 +1,7 @@
 # Large-scale-kernels
 
 ## Information
-This is an implementation and comparison of computing tome & accuracy of 3 classification methods for large scale datasets: 
+This is an implementation and comparison of computing time & accuracy of 3 classification methods for large scale datasets: 
 - Support Vector Classification (Linear and Gaussian kernel)
 - Random kernel features https://people.eecs.berkeley.edu/~brecht/papers/07.rah.rec.nips.pdf
 - Nystrom method
